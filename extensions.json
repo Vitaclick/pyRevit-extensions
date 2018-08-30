@@ -6,12 +6,12 @@
         "enable": "True",
         "type": "extension",
         "rocket_mode_compatible": "True",
-        "name": "BIMpyRevitDevTools",
-        "description": "BIM Development Tools for pyRevit",
+        "name": "BIMpyRevitTools",
+        "description": "BIM Tools for pyRevit",
         "author": "Vitaclick",
-        "author-url": "",
+        "author-url": "https://github.com/Vitaclick",
         "url": "https://github.com/Vitaclick/pyRevit-extensions.git",
-        "website": "",
+        "website": "https://github.com/Vitaclick/",
         "image" : "",
         "dependencies": []
         }  
